@@ -20,7 +20,7 @@ export default function AboutPage() {
             width="600"
           />
         </div> */}
-        <div className="space-y-4 w-1/2">
+        <div className="space-y-4 w-2/3">
           <h2 className="text-2xl font-bold">Our Story</h2>
           <p className="text-muted-foreground">
             Founded in 2009, Amen Academy was established with a vision to provide quality education that nurtures both
