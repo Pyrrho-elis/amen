@@ -146,7 +146,6 @@ export default function RegisterPage() {
                 <Tabs defaultValue="parent1" className="w-full">
                   <TabsList className="grid w-full grid-cols-2">
                     <TabsTrigger value="parent1">Parent/Guardian 1</TabsTrigger>
-                    <TabsTrigger value="parent2">Parent/Guardian 2 (Optional)</TabsTrigger>
                   </TabsList>
                   <TabsContent value="parent1" className="mt-6 space-y-6">
                     <div className="grid gap-4 md:grid-cols-2">
